@@ -25,3 +25,19 @@ Part 1 answers:
       C. student.greeting()
       D. student['Favorite Teacher'].name
       E. student.courseload[0]
+  13) A. '32': 2 converts to '2'
+      B. 1: '3' converts to 2
+      C. 3: null converts to 0
+      D. '3null': null converts to 'null'
+      E. 4: true converts to 1
+      F. 0: false and null convert to 0
+      G. '3undefined': undefined converts to 'undefined
+      H. NaN: undefined converts to NaN
+  14) A. true: '2' converts to 2
+      B. false: it compares the first char of each
+      C. true: '2' converts to 2
+      D. false: === compares without type conversion
+      E. false: true converts to 1
+      F. true: Boolean(2) becomes true
+  15) == compares with type conversion and === compares without type conversion
+      
