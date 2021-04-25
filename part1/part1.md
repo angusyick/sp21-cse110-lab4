@@ -16,4 +16,8 @@ Part 1 answers:
   5) i was defined using let and is outside of line 12's scope so it results in an error.
   6) discountedPrice was defined using let and is outside of line 13's scope so it results in an error.
   7) Outputs "150". Although finalPrice was defined using the let keywords, everything that accesses it is within its scope so it does not result in an error.
-  8) 
+  8) Output the same as question 4. Although "discounted" was defined using let, everything that accesses it is within its scope including the return statement so it does not result in an error.
+  9) This has the same error as in number 5. i was defined using let and is outside of line 12's scope.
+  10) Outputs "3". Although length is a const variable, it is never changed and is always within scope so there is no error.
+  11) Outputs the same array values as in question 4 and 9. The variables defined using const keyword are never changed after declaration and none of the variables are out of scope of anything that accesses it. So, no errors. 
+  12) 
