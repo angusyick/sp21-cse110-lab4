@@ -21,7 +21,7 @@ Part 1 answers:
   10) Outputs "3". Although length is a const variable, it is never changed and is always within scope so there is no error.
   11) Outputs the same array values as in question 4 and 9. The variables defined using const keyword are never changed after declaration and none of the variables are out of scope of anything that accesses it. So, no errors. 
   12) A. student.name
-      B. student['GradYear']
-      C.
-      D.
-      E.
+      B. student['Grad Year']
+      C. student.greeting()
+      D. student['Favorite Teacher'].name
+      E. student.courseload[0]
