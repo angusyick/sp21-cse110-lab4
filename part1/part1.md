@@ -40,6 +40,8 @@ Part 1 answers:
       E. false: true converts to 1
       F. true: Boolean(2) becomes true
   15) == compares with type conversion and === compares without type conversion
+  16) .js file
   17) it will return with an array of [2,4,6]. doSomething takes the values of its parameter and multiply it by 2. In modifyArray, dosomething is called back for each of the values of the parameter array. So, modifyArray returns an array with values that are doubled the parameter array.
-  19) 
+  18) .js file
+  19) Output is 1 4 3 2. 1 and 4 are outputted without delay. 3 is also outputted without delay, but only after 1 and 4. 2 is outputted after a second of delay.
       
