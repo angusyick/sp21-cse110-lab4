@@ -40,4 +40,6 @@ Part 1 answers:
       E. false: true converts to 1
       F. true: Boolean(2) becomes true
   15) == compares with type conversion and === compares without type conversion
+  17) it will return with an array of [2,4,6]. doSomething takes the values of its parameter and multiply it by 2. In modifyArray, dosomething is called back for each of the values of the parameter array. So, modifyArray returns an array with values that are doubled the parameter array.
+  19) 
       
