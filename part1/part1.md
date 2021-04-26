@@ -1,6 +1,6 @@
 Part 1 answers:
 
-1a)
+## Part 1a
   1) values added: 20
   2) final result: 20
   3) values added: 20
@@ -8,7 +8,7 @@ Part 1 answers:
   5) Error because const cannot be changed like in line 5
   6) Error because const cannot be changed and it is out of block scope
 
-1b) 
+## Part 1b
   1) Outputs "3". i was declared using "var" so it is within scope.
   2) Outputs "150". discountedPrice was declared using "var" so it is within scope.
   3) Outputs "150". finalPrice was declared using "var" so it is within scope.
